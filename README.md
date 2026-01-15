@@ -1,5 +1,11 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/K4eslJRu)
+
+## My edits:
+
+Hi, my name is Braden Cruz and I learned how to use Git on Mac today since I used to have a windows laptop and now have a mac
+
 # :wave: The Basics of GitHub 
+
 
 ## 🤓 Course overview and learning outcomes 
 
